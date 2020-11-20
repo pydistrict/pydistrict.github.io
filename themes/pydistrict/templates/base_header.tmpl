@@ -1,0 +1,72 @@
+## -*- coding: utf-8 -*-
+<%namespace name="base" file="base_helper.tmpl" import="*"/>
+
+<%def name="html_header()">
+    ${html_navigation_links()}
+    ${template_hooks['page_header']()}
+    <section class="hero is-medium">
+        <div class="hero-body">
+        </div>
+    </section>
+</%def>
+
+<%def name="html_site_title()">
+    <a class="navbar-item" href="${_link("root", None, lang)}" title="${blog_title|h}" rel="home">
+    %if logo_url:
+        <img src="${logo_url}" alt="${blog_title|h}" id="logo">
+    %endif
+    % if show_blog_title:
+        ${blog_title|h}
+    % endif
+    </a>
+</%def>
+
+<%def name="html_navigation_links()">
+    <nav class="navbar" role="navigation">
+        <div class="navbar-menu">
+            <div class="navbar-brand">
+                ${html_site_title()}
+            </div>
+            <div class="navbar-end">
+                ${html_navigation_links_entries(navigation_links)}
+                ${html_navigation_links_entries(navigation_alt_links)}
+                ${template_hooks['menu']()}
+                ${template_hooks['menu_alt']()}
+            </div>
+        </div>
+    </nav>
+</%def>
+
+<%def name="html_navigation_links_entries(navigation_links_source)">
+    %for url, text in navigation_links_source[lang]:
+        % if isinstance(url, tuple):
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">${text}</a>
+                <div class="navbar-dropdown">
+                %for suburl, text in url:
+                    % if rel_link(permalink, suburl) == "#":
+                        <a href="${permalink}" class="navbar-item">${text}<span class="sr-only"> ${messages("(active)", lang)}</span></a>
+                    %else:
+                        <a href="${suburl}" class="navbar-item">${text}</a>
+                    %endif
+                %endfor
+                </div>
+            </div>
+        % else:
+            % if rel_link(permalink, url) == "#":
+                <a class="navbar-item active" href="${permalink}">${text}<span class="sr-only"> ${messages("(active)", lang)}</span></a>
+            %else:
+                <a href="${url}" class="navbar-item">${text}</a>
+            %endif
+        % endif
+    %endfor
+</%def>
+
+<%def name="html_translation_header()">
+    %if len(translations) > 1:
+        <div id="toptranslations">
+            <h2>${messages("Languages:")}</h2>
+            ${base.html_translations()}
+        </div>
+    %endif
+</%def>

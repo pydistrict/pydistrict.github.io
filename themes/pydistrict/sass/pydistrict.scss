@@ -1,0 +1,22 @@
+html {
+    min-height: 100%;
+}
+
+body {
+    height: 100vh;
+    display: grid;
+}
+
+.navbar {
+    max-height: 3.25rem;
+}
+
+.container.postindex {
+    width: 50%;
+
+    article {
+        .entry-title a {
+            color: inherit;
+        }
+    }
+}
