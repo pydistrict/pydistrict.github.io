@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import time
+from nikola.utils import to_datetime
 
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #
@@ -346,7 +347,7 @@ COMPILERS = {
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-# LOGO_URL = ''
+LOGO_URL = 'assets/images/logo.png'
 
 # When linking posts to social media, Nikola provides Open Graph metadata
 # which is used to show a nice preview. This includes an image preview
@@ -928,7 +929,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # }}                            A literal } (U+007D RIGHT CURLY BRACKET)
 
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
-INDEX_READ_MORE_LINK = '<a class="button" href="{link}">More Info</a>'
+INDEX_READ_MORE_LINK = '<div class="read-more"><a href="{link}">More Info</a></div>'
 # 'Read more...' for the feeds, if FEED_TEASERS is True (translatable)
 FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
 
@@ -1365,7 +1366,9 @@ WARN_ABOUT_TAG_METADATA = False
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
+GLOBAL_CONTEXT = {
+    "datefn": to_datetime,
+}
 
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be
@@ -1377,4 +1380,4 @@ GLOBAL_CONTEXT_FILLER = []
 TYPES_TO_HIDE_TITLE = []
 
 SASS_COMPILER = 'themes/pydistrict/node_modules/.bin/sass'
-SASS_OPTIONS = []
+SASS_OPTIONS = ['--load-path=themes/pydistrict/node_modules/']

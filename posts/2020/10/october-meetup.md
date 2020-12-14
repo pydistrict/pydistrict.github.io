@@ -5,12 +5,13 @@
 .. tags: meetup
 .. category: main-meetup
 .. link: https://www.meetup.com/pydistrict/events/274066238/
+.. event_time: 2020-10-27 18:00:00 UTC-05:00
 .. description: PyDistrict's October Meetup
 .. type: text
 -->
 
 Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
-be presenting: **Ying Wang** on **Property Based Testing**
+be presenting: **Ying Wang** on **Property Based Testing**.
 
 <!-- TEASER_END -->
 

@@ -4,7 +4,8 @@
 .. date: 2020-07-24 22:01:47 UTC-05:00
 .. tags: 
 .. category: project-night
-.. link: 
+.. link: https://www.meetup.com/pydistrict/events/jhbqrqybckbcc/
+.. event_time: 2020-07-21 18:30:00 UTC-05:00
 .. description: 
 .. type: text
 -->

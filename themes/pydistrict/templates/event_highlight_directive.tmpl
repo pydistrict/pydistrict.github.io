@@ -1,12 +1,13 @@
 ## -*- coding: utf-8 -*-
 <%block name="content">
 <!-- Begin post-list ${post_list_id} -->
-<div id="${post_list_id}">
+<div id="${post_list_id}" class="post-list">
     % for post in posts:
         <div class="event">
-
-            <h1>${post.title(lang)|h}</h1>
+            <h2 class="title"><a href="${post.permalink()}">${post.title(lang)|h}</a></h2>
+            <h3 class="subtitle"><time class="subtitle">${post.formatted_date('EEEE MMMM d • h:mm a', datefn(post.meta('event_time')))}</time></h3>
             ${post.text(teaser_only=True)}
+            <div class="event-footer"><a class="button is-medium is-fullwidth is-danger" href="${post.meta('link')}">RSVP</a></div>
         </div>
     % endfor
 </div>

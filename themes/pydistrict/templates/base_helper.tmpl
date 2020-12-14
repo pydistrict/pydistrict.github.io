@@ -54,13 +54,6 @@ lang="${lang}">
     %endif
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css">
-    <script defer src="https://use.fontawesome.com/releases/v5.14.0/js/all.js"></script>
-    %if use_cdn:
-        <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script><![endif]-->
-    %else:
-        <!--[if lt IE 9]><script src="${url_replacer(permalink, '/assets/js/html5shiv-printshiv.min.js', lang, url_type)}"></script><![endif]-->
-    %endif
 
     ${extra_head_data}
 </%def>
@@ -96,14 +89,16 @@ lang="${lang}">
 </%def>
 
 <%def name="html_stylesheets()">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
     %if use_bundles:
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css">
-        <link href="/assets/css/all.css" rel="stylesheet" type="text/css">
+        <link href="/assets/css/bulma.css" rel="stylesheet" type="text/css">
         <link href="/assets/css/pydistrict.css" rel="stylesheet" type="text/css">
     %else:
         <link href="/assets/css/code.css" rel="stylesheet" type="text/css">
         <link href="/assets/css/theme.css" rel="stylesheet" type="text/css">
     %endif
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Patua+One&display=swap" rel="stylesheet">
 </%def>
 
 ### This function is deprecated; use feed_helper directly.
