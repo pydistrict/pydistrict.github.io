@@ -2,6 +2,10 @@
 @import "bulma/sass/utilities/initial-variables.sass";
 @import "variables.scss";
 @import "bulma/sass/utilities/derived-variables.sass";
+@import "bulma/sass/utilities/mixins.sass";
+
+$logo-width: 100px;
+$logo-offset-y: 4px; // nicely aligns E Capital w/the navbar baseline
 
 html {
     min-height: 100%;
@@ -15,7 +19,6 @@ body {
 
 .navbar {
     max-height: 3.25rem;
-    $logo-width: 100px;
 
     &-brand {
         .title {
@@ -29,7 +32,7 @@ body {
 
         #logo {
             position: absolute;
-            top: 4px; // nicely aligns E Capital w/the navbar baseline
+            top: $logo-offset-y;
             width: $logo-width;
             max-width: unset;
             max-height: unset;
@@ -37,6 +40,10 @@ body {
     }
 
     &-end {
+        @include until($desktop) {
+            margin-top: ($logo-width / 2) + $logo-offset-y;
+        }
+
         a.navbar-item {
             position: relative;
             z-index: 2; // lift the element for the underline
@@ -77,6 +84,14 @@ body {
     background:
         linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
         url('../images/banner.png') no-repeat 50%;
+    background-size: cover;
+
+    // Push the hero text down to avoid overlap with the logo underhang
+    @include until($tablet) {
+        &-body {
+            padding-top: calc(#{$size-6} + #{$logo-width / 2} + #{$logo-offset-y});
+        }
+    }
 
     .title,
     .subtitle {
@@ -94,13 +109,20 @@ body {
 }
 
 .event-block {
-    width: 50%;
-    margin: -20% auto 0;
-    padding: 1rem;
+    @include from($tablet) {
+        width: 50%;
+    }
+    margin: max(-20%, -230px) auto 0;
+    @include until($tablet) {
+        margin-top: 0;
+    }
     background-color: white;
-    border-radius: 6px;
-    border: hsl(0, 0%, 86%);
-    box-shadow: 0 0.125em 0.25em rgba(0, 0, 0, 0.1);
+    @include from($tablet) {
+        padding: 1rem;
+        border-radius: 6px;
+        border: hsl(0, 0%, 86%);
+        box-shadow: 0 0.125em 0.25em rgba(0, 0, 0, 0.1);
+    }
 
     .title a {
         color: unset;

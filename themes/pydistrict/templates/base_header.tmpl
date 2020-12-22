@@ -27,10 +27,15 @@
 
 <%def name="html_navigation_links()">
     <nav class="navbar" role="navigation">
-        <div class="navbar-menu">
-            <div class="navbar-brand">
-                ${html_site_title()}
-            </div>
+        <div class="navbar-brand">
+            ${html_site_title()}
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navMenu">
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+              <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="navbar-menu" id="navMenu">
             <div class="navbar-end">
                 ${html_navigation_links_entries(navigation_links)}
                 ${html_navigation_links_entries(navigation_alt_links)}
