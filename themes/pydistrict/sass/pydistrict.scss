@@ -10,6 +10,7 @@ html {
 body {
     height: 100vh;
     display: grid;
+    grid-template-rows: auto 1fr auto;
 }
 
 .navbar {
@@ -64,6 +65,12 @@ body {
             }
         }
     }
+
+    & + section.section {
+        padding-top: calc(#{$size-1} + #{$logo-width / 2});
+        max-width: $tablet;
+        margin: 0 auto;
+    }
 }
 
 .hero {
@@ -109,13 +116,15 @@ body {
         text-align: right;
         margin-bottom: 1rem;
 
-        &::after {
-            content: '»';
-            color: $link;
-        }
+        a {
+            &::after {
+                content: '»';
+                color: $link;
+            }
 
-        &:hover::after {
-            color: $link-hover;
+            &:hover::after {
+                color: $link-hover;
+            }
         }
     }
 
@@ -127,5 +136,32 @@ body {
         width: 100%;
         display: flex;
         justify-content: center;
+    }
+}
+
+article {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+    header + .content {
+        margin: $size-4 0;
+    }
+
+    .title a {
+        transition: all $speed $easing;
+    }
+
+    h2.subtitle {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+    }
+
+    aside {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: auto;
     }
 }

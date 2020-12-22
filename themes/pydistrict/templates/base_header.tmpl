@@ -4,12 +4,14 @@
 <%def name="html_header()">
     ${html_navigation_links()}
     ${template_hooks['page_header']()}
+    % if 'page_page' in pagekind:
     <section class="hero is-large">
         <div class="hero-body has-text-centered">
             <h1 class="title">We are PyDistrict</h1>
             <h2 class="subtitle">Washington, DC's premiere Python meetup.</h2>
         </div>
     </section>
+    % endif
 </%def>
 
 <%def name="html_site_title()">
