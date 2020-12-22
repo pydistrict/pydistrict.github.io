@@ -5,11 +5,13 @@
 .. tags: meetup
 .. category: main-meetup
 .. link: https://www.meetup.com/pydistrict/events/270239718/
+.. event_time: 2020-05-05 17:30:00 UTC-05:00
 .. description: PyDistrict's May Meetup
 .. type: text
 -->
 
-Join us for our 2nd virtual PyDistrict. We have two great speakers who will be presenting.
+Join us for our 2nd virtual PyDistrict. We have two great speakers who will be
+presenting: **Zuri Hunter** and **Justin Slay**.
 
 ### Zuri Hunter - 4C or Not 4C? That is the question...
 

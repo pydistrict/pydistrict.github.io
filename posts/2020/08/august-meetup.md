@@ -5,14 +5,13 @@
 .. tags: meetup
 .. category: main-meetup
 .. link: https://www.meetup.com/pydistrict/events/272401980/
+.. event_time: 2020-08-25 18:00:00 UTC-05:00
 .. description: PyDistrict's August Meetup
 .. type: text
 -->
 
 Join us for our monthly virtual PyDistrict. We'll be welcoming back a former
-organizer and seasoned PyCon speaker.
-
-## Speaker
+organizer and seasoned PyCon speaker: **Andrew Baker**.
 
 ### Andrew Baker - How I built a $10k ARR side business with Django
 

@@ -4,15 +4,16 @@
 .. date: 2020-09-16 21:45:49 UTC-04:00
 .. tags: meetup
 .. category: main-meetup
-.. link: 
+.. link: https://www.meetup.com/pydistrict/events/273262124/
+.. event_time: 2020-09-29 18:00:00 UTC-05:00
 .. description: PyDistrict's September Meetup
 .. type: text
 -->
 
 Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
-be presenting.
+be presenting: **Justin Shelton**.
 
-## Speaker
+<!-- TEASER_END -->
 
 ### Justin Shelton - Ball Don't Lie: Extracting Truth from Basketball Games with Python
 

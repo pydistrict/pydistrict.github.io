@@ -5,14 +5,13 @@
 .. tags: meetup
 .. category: main-meetup
 .. link: https://www.meetup.com/pydistrict/events/271340346/
+.. event_time: 2020-06-30 17:30:00 UTC-05:00
 .. description: PyDistrict's June Meetup
 .. type: text
 -->
 
 Join us for our June virtual PyDistrict. We have two great speakers who will be
-presenting.
-
-## Speakers
+presenting: **Mike Brown** and **Rami Chowdury**.
 
 ### Mike Brown - Before you commit, every commit: how to automate code quality
 

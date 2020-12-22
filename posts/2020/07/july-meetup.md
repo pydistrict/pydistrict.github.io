@@ -5,14 +5,13 @@
 .. tags: meetup
 .. category: main-meetup
 .. link: https://www.meetup.com/pydistrict/events/272040340/
+.. event_time: 2020-06-28 18:00:00 UTC-05:00
 .. description: PyDistrict's July Meetup
 .. type: text
 -->
 
 Join us for our monthly virtual PyDistrict. We have two great speakers who will
-be presenting.
-
-## Speakers
+be presenting: **Robert Townley** and **Ewa Jodlowska**.
 
 ### Robert Townley - K(snake)s: An intro to kubernetes using python
 

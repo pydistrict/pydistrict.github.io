@@ -5,12 +5,14 @@
 .. tags: meetup
 .. category: main-meetup
 .. link: https://www.meetup.com/pydistrict/events/269589434/
+.. event_time: 2020-03-31 18:30:00 UTC-05:00
 .. description: PyDistrict's March Meetup
 .. type: text
 -->
 
 Join us for our 1st virtual PyDistrict (formerly Django District) meetup of the
-year. We have two great speakers who will be presenting.
+year. We have two great speakers who will be presenting: **Emma Price** and
+**Zuri Hunter**.
 
 ### Emma Price - Decision Trees
 

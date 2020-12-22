@@ -11,11 +11,11 @@
 -->
 
 Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
-be presenting: **Ying Wang** on **Property Based Testing**.
+be presenting: **Ying Wang**.
 
 <!-- TEASER_END -->
 
-### Ying Wang - Property based testing
+### Ying Wang - Property Based Testing
 
 This talk introduces property-based testing as a concept, and describes some
 ways you can start integrating PBT into your test suite.
