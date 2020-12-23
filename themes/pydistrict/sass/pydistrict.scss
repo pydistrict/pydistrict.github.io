@@ -80,6 +80,12 @@ body {
     }
 }
 
+#content {
+    @include until($desktop) {
+        max-width: 100vw;
+    }
+}
+
 .hero {
     background:
         linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
@@ -186,4 +192,9 @@ article {
         align-items: center;
         margin-top: auto;
     }
+}
+
+#footer > .content {
+    display: flex;
+    justify-content: space-between;
 }
