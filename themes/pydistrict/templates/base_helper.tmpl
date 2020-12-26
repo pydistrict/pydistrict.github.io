@@ -23,7 +23,7 @@ lang="${lang}">
     %endif
     <meta name="viewport" content="width=device-width">
     %if title == blog_title:
-        <title>${blog_title|h}</title>
+        <title>Welcome to ${blog_title|h}</title>
     %else:
         <title>${title|h} | ${blog_title|h}</title>
     %endif
@@ -59,32 +59,6 @@ lang="${lang}">
 </%def>
 
 <%def name="late_load_js()">
-    % if use_bundles:
-        % if use_cdn:
-            <script src="/assets/js/all.js"></script>
-        % else:
-            <script src="/assets/js/all-nocdn.js"></script>
-        % endif
-    % else:
-        % if use_cdn:
-            <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.min.js" integrity="sha256-ULQV01VS9LCI2ePpLsmka+W0mawFpEA0rtxnezUj4A4=" crossorigin="anonymous"></script>-->
-        % else:
-            <!--<script src="/assets/js/baguetteBox.min.js"></script>-->
-        % endif
-    % endif
-    % if date_fanciness != 0:
-        % if date_fanciness == 2:
-            <script src="https://polyfill.io/v3/polyfill.js?features=Intl.RelativeTimeFormat.%7Elocale.${luxon_locales[lang]}"></script>
-        % endif
-        % if use_cdn:
-            <script src="https://cdn.jsdelivr.net/npm/luxon@1.24.1/build/global/luxon.min.js" integrity="sha256-5FiU7kNb/UJWqMesUFnKv4dJzLMiTWljH0ONkz+h704=" crossorigin="anonymous"></script>
-        % else:
-            <script src="/assets/js/luxon.min.js"></script>
-        % endif
-        % if not use_bundles:
-            <script src="/assets/js/fancydates.min.js"></script>
-        % endif
-    % endif
     <script>
     document.addEventListener('DOMContentLoaded', () => {
         const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);

@@ -18,14 +18,6 @@ ${template_hooks['extra_head']()}
     </section>
     ${footer.html_footer()}
     ${base.late_load_js()}
-    % if date_fanciness != 0:
-    <!-- fancy dates -->
-    <script>
-    luxon.Settings.defaultLocale = "${luxon_locales[lang]}";
-    fancydates(${date_fanciness}, ${luxon_date_format});
-    </script>
-    <!-- end fancy dates -->
-    % endif
     <%block name="extra_js"></%block>
     ${body_end}
     ${template_hooks['body_end']()}

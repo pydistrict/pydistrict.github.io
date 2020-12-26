@@ -25,7 +25,7 @@ SITE_URL = "https://pydistrict.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://pydistrict.org/"
-BLOG_EMAIL = "n.tesla@example.com"
+BLOG_EMAIL = ""
 BLOG_DESCRIPTION = "Washington, DC's premiere Python meetup."  # (translatable)
 
 # Nikola is multilingual!
@@ -459,20 +459,20 @@ CATEGORY_OUTPUT_FLAT_HIERARCHY = False
 # Set descriptions for category pages to make them more interesting. The
 # default is no description. The value is used in the meta description
 # and displayed underneath the category list or index page’s title.
-# CATEGORY_DESCRIPTIONS = {
-#    DEFAULT_LANG: {
-#        "blogging": "Meta-blog posts about blogging.",
-#        "open source": "My contributions to my many, varied, ever-changing, and eternal libre software projects."
-#    },
-# }
+CATEGORY_DESCRIPTIONS = {
+   DEFAULT_LANG: {
+       "main-meetup": "Our monthly meetup",
+       "project-night": "Our monthly, group hack and learn event"
+   },
+}
 
 # Set special titles for category pages. The default is "Posts about CATEGORY".
-# CATEGORY_TITLES = {
-#    DEFAULT_LANG: {
-#        "blogging": "Meta-posts about blogging",
-#        "open source": "Posts about open source software"
-#    },
-# }
+CATEGORY_TITLES = {
+   DEFAULT_LANG: {
+       "main-meetup": "The main meetups",
+       "project-night": "The project hack nights"
+   },
+}
 
 # If you do not want to display a category publicly, you can mark it as hidden.
 # The category will not be displayed on the category list page.
