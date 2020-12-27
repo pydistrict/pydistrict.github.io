@@ -1,0 +1,4 @@
+Sitemap: https://pydistrict.org/sitemapindex.xml
+
+User-Agent: *
+Host: pydistrict.org

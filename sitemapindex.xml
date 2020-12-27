@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <sitemap>
+  <loc>https://pydistrict.org/categories/cat_main-meetup.xml</loc>
+  <lastmod>2020-12-27T02:57:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://pydistrict.org/categories/cat_project-night.xml</loc>
+  <lastmod>2020-12-27T02:57:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://pydistrict.org/categories/meetup.xml</loc>
+  <lastmod>2020-12-27T02:57:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://pydistrict.org/rss.xml</loc>
+  <lastmod>2020-12-27T02:57:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://pydistrict.org/sitemap.xml</loc>
+  <lastmod>2020-12-27T20:48:00Z</lastmod>
+ </sitemap>
+</sitemapindex>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict</title><link>https://pydistrict.org/</link><description>Washington, DC's premiere Python meetup.</description><atom:link href="https://pydistrict.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 PyDistrict </copyright><lastBuildDate>Sun, 27 Dec 2020 02:57:24 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>October Meetup</title><link>https://pydistrict.org/posts/2020/10/october-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+be presenting: &lt;strong&gt;Ying Wang&lt;/strong&gt;.&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
+
+&lt;h4&gt;Ying Wang - Property Based Testing&lt;/h4&gt;
+&lt;p&gt;This talk introduces property-based testing as a concept, and describes some
+ways you can start integrating PBT into your test suite.&lt;/p&gt;
+&lt;p&gt;Ying is a software engineer in DC; he enjoys Chipotle burritos, sunlight, and
+making computer fans spin loudly.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/10/october-meetup.html</guid><pubDate>Mon, 19 Oct 2020 02:17:39 GMT</pubDate></item><item><title>September Meetup</title><link>https://pydistrict.org/posts/2020/09/september-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+be presenting: &lt;strong&gt;Justin Shelton&lt;/strong&gt;.&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
+
+&lt;h4&gt;Justin Shelton - Ball Don't Lie: Extracting Truth from Basketball Games with Python&lt;/h4&gt;
+&lt;p&gt;Plain-text can sometimes be a gold mine for analytical information, but text is
+not exactly a well-formed API. We will go in depth on how we tackle the problem
+of tagging basketball plays for the purposes of advanced metrics with minimal
+work, how we present those metrics, and what to do when the data is a lie.
+Attendees will learn event modeling for human-readable text; what metrics and
+advanced calculations are possible with seemingly basic data; and data
+triage/human input on ground-truth data.&lt;/p&gt;
+&lt;p&gt;Justin Shelton is the CTO of Pivot Analysis, a company dedicated to basketball
+analytics. He helped create and maintains a system for tracking advanced
+basketball analytics, showcasing the effects of players on their teams and
+surfacing team insights for coaches and analysts. Before coming to Pivot,
+Justin spent 11 years in the defense and intelligence communities helping
+analysts create better products from their data. Justin is a Virginia native,
+but family drew him to Wisconsin where he now resides with his wife and two
+kids. He has a Bachelor's Degree in Computer Science from Radford University in
+Virginia.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/09/september-meetup.html</guid><pubDate>Thu, 17 Sep 2020 01:45:49 GMT</pubDate></item><item><title>August Meetup</title><link>https://pydistrict.org/posts/2020/08/august-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll be welcoming back a former
+organizer and seasoned PyCon speaker: &lt;strong&gt;Andrew Baker&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4&gt;Andrew Baker - How I built a $10k ARR side business with Django&lt;/h4&gt;
+&lt;p&gt;Ever thought about bootstrapping your own Software-as-a-Service business?&lt;/p&gt;
+&lt;p&gt;If you're like me, you registered dozens of domain names over the years for
+ideas that didn't &lt;em&gt;always&lt;/em&gt; see the light of day. After many failed attempts at
+creating a self-sustaining side project, I finally got one off the ground last
+year: Gator - smart scheduled delivery for your Slack messages.&lt;/p&gt;
+&lt;p&gt;After about a year and half of nights and weekends work, Gator now pulls in
+about $1,000 in revenue per month - which makes it $999 more successful than my
+previous best attempt. In this talk I'll share the story of how Gator got off
+the ground and some lessons I've learned along the way. I'll also cover some
+details of the Python stack I used to build Gator, the APIs I rely on to be
+successful, and some communities I found which could help you, too.&lt;/p&gt;
+&lt;p&gt;Andrew Baker is on a mission to empower developers to change the world with
+software.&lt;/p&gt;
+&lt;p&gt;As Director of Developer Education at Twilio, Andrew leads the teams
+responsible for Twilio’s documentation and training programs, including
+TwilioQuest.&lt;/p&gt;
+&lt;p&gt;Andrew started his career as a Python web developer in Washington, D.C.. He
+discovered his passion for teaching developers after running Docker workshops
+at meetups and conferences before joining Twilio in 2015.&lt;/p&gt;
+&lt;p&gt;Since then he has sought out new ways to challenge and empower developers
+through documentation, training, and other aspects of Twilio’s developer
+experience.&lt;/p&gt;
+&lt;p&gt;Some of his previous presentations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=vGphzPLemZE"&gt;5 ways to deploy your Python web app in 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=GVVtR_hrdKI"&gt;Demystifying Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=YiZkHUbE6N0"&gt;Docker 101: Introduction to Docker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/08/august-meetup.html</guid><pubDate>Wed, 19 Aug 2020 02:17:21 GMT</pubDate></item><item><title>July Project Night</title><link>https://pydistrict.org/posts/2020/07/project-night.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us on the third Tuesday of the month to work on Python related projects!
+Everyone is welcome, regardless of experience.&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
+
+&lt;p&gt;Have a project you are working on and just need to find the time? Spend a few
+hours with other DC Python members bringing your idea into existence.&lt;/p&gt;
+&lt;p&gt;Even if you don't have a project join in the conversation, learn something new
+and share your experience.&lt;/p&gt;&lt;/div&gt;</description><guid>https://pydistrict.org/posts/2020/07/project-night.html</guid><pubDate>Sat, 25 Jul 2020 03:01:47 GMT</pubDate></item><item><title>July Meetup</title><link>https://pydistrict.org/posts/2020/07/july-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We have two great speakers who will
+be presenting: &lt;strong&gt;Robert Townley&lt;/strong&gt; and &lt;strong&gt;Ewa Jodlowska&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4&gt;Robert Townley - K(snake)s: An intro to kubernetes using python&lt;/h4&gt;
+&lt;p&gt;Kubernetes (aka “k8s”) has changed the way we run, deploy, and think about
+applications. The learning curve for k8s is a steep one, but it’s surmountable
+and worthwhile. And the platform has real particular advantages for python
+developers, who need to deal with issues (both real and imagined) around
+python’s ease of deployment and scalability. In this presentation, we’ll take a
+Django application through full deployment to a k8s cluster. We’ll spin up the
+cluster, dockerize the app, publish the app to a container registry, set up a
+CI/CD pipeline, and deploy the app. Even better: we’ll go over what all of
+those odd words mean. So whether you’re a curious beginner looking to learn, or
+a devops veteran who feels a moral responsibility to save DC’s python community
+from my copious k8s mistakes, this talk is sure to have something for everyone!&lt;/p&gt;
+&lt;p&gt;Robert is a developer for Upside Travel, where he dabbles in everything from
+mobile development to SRE. He’s originally from NYC and comes to DC by way of
+Montreal. In his free time, he enjoys farming-based video games, playing
+classical guitar, puttering around the city while listening to audiobooks, and
+buying domains for half-finished projects and ideas.&lt;/p&gt;
+&lt;h4&gt;Ewa Jodlowska, PSF Executive Director - How the Python Software Foundation Fared Through the Impact of the Pandemic&lt;/h4&gt;
+&lt;p&gt;Like a lot of other organizations, the PSF has had a tough year. With the help
+of some special guests, we'll find out how things stand, ways to get involved
+in the Python community now, and what to expect in the coming months.&lt;/p&gt;
+&lt;p&gt;Ewa is the Executive Director of the Python Software Foundation. She has been
+with the PSF since 2012 and prior to that she assisted with PyCon as a
+contractor. Ewa's responsibilities include managing the staff, giving direction
+and leadership to the Foundation, working with the board of directors on
+long-range strategic planning, and overseeing financial and program operations
+to name a few.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/07/july-meetup.html</guid><pubDate>Sun, 19 Jul 2020 02:17:05 GMT</pubDate></item><item><title>June Meetup</title><link>https://pydistrict.org/posts/2020/06/june-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our June virtual PyDistrict. We have two great speakers who will be
+presenting: &lt;strong&gt;Mike Brown&lt;/strong&gt; and &lt;strong&gt;Rami Chowdury&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4&gt;Mike Brown - Before you commit, every commit: how to automate code quality&lt;/h4&gt;
+&lt;p&gt;The python community has many tools for linting and enforcing pep8 coding
+standards, such as flake8, pylint, and black. Wouldn’t it be nice if these
+tools automatically ran — and automatically fixed — your code before it was
+pushed?&lt;/p&gt;
+&lt;h4&gt;Rami Chowdury - Type Checking in Python&lt;/h4&gt;
+&lt;p&gt;You've definitely heard of mypy, and possibly one or more of pytype, pyre, and
+pyright.&lt;/p&gt;
+&lt;p&gt;Holy cow -- that's a lot of options! What should you use? Rami talks about
+typechecking your Python for fun... and maybe profit?&lt;/p&gt;
+&lt;p&gt;Rami has been writing Python for over 10 years and checking types for less than
+half of them. He currently helps companies scale their use of Python at
+&lt;a href="https://www.twitter.com/CoiledHQ"&gt;@CoiledHQ&lt;/a&gt;. Twitter:
+&lt;a href="https://www.twitter.com/necaris"&gt;@necaris&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/06/june-meetup.html</guid><pubDate>Fri, 19 Jun 2020 02:12:29 GMT</pubDate></item><item><title>May Meetup</title><link>https://pydistrict.org/posts/2020/05/may-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our 2nd virtual PyDistrict. We have two great speakers who will be
+presenting: &lt;strong&gt;Zuri Hunter&lt;/strong&gt; and &lt;strong&gt;Justin Slay&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4&gt;Zuri Hunter - 4C or Not 4C? That is the question...&lt;/h4&gt;
+&lt;p&gt;This was a question I posed to myself when I was trying to come up with a
+presentation with Python. I wanted to know if it was possible to train a
+computer on how to determine whether an image had a 4C hair type. This
+presentation will cover the trial and tribulations that I came across when
+trying to answer that question.&lt;/p&gt;
+&lt;p&gt;Zuri Hunter is a software engineer at Black Cape, based out in Washington, DC.
+She attended the illustrious Howard University where she obtained her
+bachelor’s in Computer Information Systems. While completing her undergraduate
+degree, Zuri taught herself Ruby on Rails and applied this knowledge at several
+local hackathons. She worked on several projects such as the US Presidential
+Innovations Fellow, Hack the Pay Gap and AngelHack Incubator, SlimSpace. After
+her 5th hackathon she was presented with her first introduction in the tech
+industry with opportunity at HumanGeo with web applications in a microservice
+architecture.&lt;/p&gt;
+&lt;p&gt;Outside of building amazing applications, Zuri is heavily involved in
+increasing diversity and inclusion within the DC tech community. She volunteers
+regularly with Women Who Code as a Ruby on Rails Lead, Black Girls Code as a
+Technical Lead, Bison Hacks as a Hackathon Organizer and DCFemTech as
+Leadership Lead. As of 2018, she was nominated as DCA Live Power Women in Tech.
+When she isn’t volunteering or coding she loves to spend her free time, playing
+video games on her PlayStation, watching American Football, doing arts &amp;amp; crafts
+and playing billiards at a local club.&lt;/p&gt;
+&lt;h4&gt;Justin Slay - Decorators and Wrappers, Extending functions with superpowers&lt;/h4&gt;
+&lt;p&gt;Justin will cover decorators and wrappers, how to use them, and common use
+cases where you might need them.&lt;/p&gt;
+&lt;p&gt;Justin is a Senior Python Developer and Senior DevOps Automation Engineer at
+Excella, based in Denver Colorado, and has extensive experience building
+micro-services in Flask and other Python frameworks. He likes to utilize his
+skill set to improve the DevOps sector in multiple facets, focusing around
+Kubernetes in the most recent years. He has worked for several companies at
+large scale, leading innovating projects to bring software and hardware
+together.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/05/may-meetup.html</guid><pubDate>Tue, 19 May 2020 02:12:10 GMT</pubDate></item><item><title>March Meetup</title><link>https://pydistrict.org/posts/2020/03/march-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our 1st virtual PyDistrict (formerly Django District) meetup of the
+year. We have two great speakers who will be presenting: &lt;strong&gt;Emma Price&lt;/strong&gt; and
+&lt;strong&gt;Zuri Hunter&lt;/strong&gt;.&lt;/p&gt;
+&lt;h4&gt;Emma Price - Decision Trees&lt;/h4&gt;
+&lt;p&gt;Decision Trees are used in a wide variety of applications and are great
+starting algorithms for visualizing machine learning at work. But what are they
+and how can we build them? I hope to provide a more in depth understanding of
+performing classification with Decision Trees. This presentation will cover
+general terms, examples, and common pitfalls of using Decision Trees for Data
+Analysis.&lt;/p&gt;
+&lt;p&gt;Currently, Emma is a Technologist for Black Cape working on full stack
+development for DoD apps. Previously, she was a Software Engineer for Leidos
+for 2 years, where she built and researched machine learning algorithms. Emma
+received an undergraduate degree in Biomedical Engineering and is passionate
+about technology and learning how to harness the power of processing to
+increase efficiency in the workforce.&lt;/p&gt;
+&lt;h4&gt;Zuri Hunter - 4C or Not 4C? That is the question...&lt;/h4&gt;
+&lt;p&gt;This was a question I posed to myself when I was trying to come up with a
+presentation with Python. I wanted to know if it was possible to train a
+computer on how to determine whether an image had a 4C hair type. This
+presentation will cover the trial and tribulations that I came across when
+trying to answer that question.&lt;/p&gt;
+&lt;p&gt;Zuri Hunter is a software engineer at Black Cape, based out in Washington,
+DC. She attended the illustrious Howard University where she obtained her
+bachelor’s in Computer Information Systems. While completing her undergraduate
+degree, Zuri taught herself Ruby on Rails and applied this knowledge at several
+local hackathons. She worked on several projects such as the US Presidential
+Innovations Fellow, Hack the Pay Gap and AngelHack Incubator, SlimSpace. After
+her 5th hackathon she was presented with her first introduction in the tech
+industry with opportunity at HumanGeo with web applications in a microservice
+architecture.&lt;/p&gt;
+&lt;p&gt;Outside of building amazing applications, Zuri is heavily involved in
+increasing diversity and inclusion within the DC tech community. She volunteers
+regularly with Women Who Code as a Ruby on Rails Lead, Black Girls Code as a
+Technical Lead, Bison Hacks as a Hackathon Organizer and DCFemTech as
+Leadership Lead. As of 2018, she was nominated as DCA Live Power Women in Tech.
+When she isn’t volunteering or coding she loves to spend her free time, playing
+video games on her PlayStation, watching American Football, doing arts &amp;amp; crafts
+and playing billiards at a local club.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/03/march-meetup.html</guid><pubDate>Tue, 24 Mar 2020 01:45:49 GMT</pubDate></item></channel></rss>
