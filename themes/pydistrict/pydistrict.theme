@@ -2,3 +2,6 @@
 engine = mako
 parent = base
 
+[Nikola]
+ignored_assets = css/theme.css,css/baguetteBox.min.css,css/code.css,css/html4css1.css,css/ipython.min.css,css/nikola_ipython.css,js/baguetteBox.min.js,js/fancydates.js,js/fancydates.min.js,js/gallery.js,js/gallery.min.js,js/html5.js,js/html5shiv-printshiv.min.js,js/justified-layout.min.js,js/luxon.min.js
+
