@@ -7,9 +7,12 @@
 ## Devloping locally
 
 1. Load the virtual environment
-2. Run `nikola auto` to watch and serve on a local dev server.
+2. Run `nikola build` to do an initial build
+3. Run `nikola auto` to watch and serve on a local dev server.
 
 ## Pushing to the world
 
-1. Build the site: `nikola build`
+1. Build the site: `nikola build && nikola build`
+  * Two `build` commands are required due to nuances with Nikola's build
+    process and compiled assets ([ticket](https://github.com/getnikola/nikola/issues/2495))
 2. Publish to GitHub: `nikola github_deploy`

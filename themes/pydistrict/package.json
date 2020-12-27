@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "clean-css-cli": "^4.3.0",
     "sass": "^1.30.0"
   },
   "dependencies": {
