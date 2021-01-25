@@ -7,15 +7,19 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://pydistrict.org/</loc>
-  <lastmod>2020-12-27T02:57:00Z</lastmod>
+  <lastmod>2021-01-25T23:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://pydistrict.org/2020/</loc>
   <lastmod>2020-12-27T02:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://pydistrict.org/2021/</loc>
+  <lastmod>2021-01-25T23:23:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://pydistrict.org/archive.html</loc>
-  <lastmod>2021-01-09T19:42:00Z</lastmod>
+  <lastmod>2021-01-25T23:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://pydistrict.org/categories/</loc>
@@ -23,7 +27,7 @@
  </url>
  <url>
   <loc>https://pydistrict.org/categories/cat_main-meetup.html</loc>
-  <lastmod>2021-01-09T19:42:00Z</lastmod>
+  <lastmod>2021-01-25T23:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://pydistrict.org/categories/cat_project-night.html</loc>
@@ -31,7 +35,7 @@
  </url>
  <url>
   <loc>https://pydistrict.org/categories/meetup.html</loc>
-  <lastmod>2021-01-09T19:42:00Z</lastmod>
+  <lastmod>2021-01-25T23:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://pydistrict.org/conduct.html</loc>
@@ -39,7 +43,7 @@
  </url>
  <url>
   <loc>https://pydistrict.org/posts/</loc>
-  <lastmod>2020-12-27T02:57:00Z</lastmod>
+  <lastmod>2021-01-25T23:23:00Z</lastmod>
  </url>
  <url>
   <loc>https://pydistrict.org/posts/2020/03/march-meetup.html</loc>
@@ -71,6 +75,10 @@
  </url>
  <url>
   <loc>https://pydistrict.org/posts/2020/10/october-meetup.html</loc>
-  <lastmod>2021-01-09T19:42:00Z</lastmod>
+  <lastmod>2021-01-25T23:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://pydistrict.org/posts/2021/02/february-meetup.html</loc>
+  <lastmod>2021-01-25T23:26:00Z</lastmod>
  </url>
 </urlset>
