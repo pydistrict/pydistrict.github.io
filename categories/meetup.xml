@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict (Posts about meetup)</title><link>https://pydistrict.org/</link><description></description><atom:link href="https://pydistrict.org/categories/meetup.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 PyDistrict </copyright><lastBuildDate>Mon, 25 Jan 2021 23:26:14 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>February Meetup</title><link>https://pydistrict.org/posts/2021/02/february-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict (Posts about meetup)</title><link>https://pydistrict.org/</link><description></description><atom:link href="https://pydistrict.org/categories/meetup.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 PyDistrict </copyright><lastBuildDate>Wed, 24 Mar 2021 23:44:59 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Early April Lightning Talks</title><link>https://pydistrict.org/posts/2021/04/early-april-lightning-talks.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;It's an April two-fer! Join us for an evening of lightning talks. If you're
+interested in presenting, please reach out to the organizers on
+&lt;a href="https://www.meetup.com/pydistrict"&gt;Meetup&lt;/a&gt; or the &lt;a href="http://www.dctechslack.com/"&gt;DC Tech
+Slack's&lt;/a&gt; &lt;code&gt;#pydistrict&lt;/code&gt; channel.&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
+
+&lt;h4&gt;Jim Taysom - Manage your Python environments with Pipenv&lt;/h4&gt;
+&lt;p&gt;Pipenv combines virtual environments and package installation tools to make a
+simple workflow for having a consistent package installation experience. &lt;a href="https://xkcd.com/1987/"&gt;This
+will help prevent your computer from being declared a superfund site&lt;/a&gt;.&lt;/p&gt;
+&lt;h4&gt;Aru Sahni - Pattern Matching&lt;/h4&gt;
+&lt;p&gt;Python 3.10 is on the horizon. With it comes a new feature that has the
+internet abuzz - Pattern Matching. Learn why it exists, how it's used, and
+more!&lt;/p&gt;
+&lt;h4&gt;Rami Chowdhury - Django-Ninja&lt;/h4&gt;
+&lt;p&gt;Want to try FastAPI? Have an existing Django app? Learn how to bring Ninja
+skills to bear with Django-Ninja!&lt;/p&gt;
+&lt;h4&gt;Vic Kumar - Functional Programming in Python&lt;/h4&gt;
+&lt;p&gt;Ever hear your overzealous friend talking about "functional programming" and
+have no idea what they're talking about? We're going to try and bridge the gap
+and do a few functional examples in Python.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/04/early-april-lightning-talks.html</guid><pubDate>Wed, 24 Mar 2021 23:39:17 GMT</pubDate></item><item><title>February Meetup</title><link>https://pydistrict.org/posts/2021/02/february-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
 be presenting: &lt;strong&gt;Will Angel&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- TEASER_END --&gt;
 
