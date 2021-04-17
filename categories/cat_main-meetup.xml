@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict (The main meetups)</title><link>https://pydistrict.org/</link><description>Our monthly meetup</description><atom:link href="https://pydistrict.org/categories/cat_main-meetup.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 PyDistrict </copyright><lastBuildDate>Wed, 24 Mar 2021 23:44:59 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Early April Lightning Talks</title><link>https://pydistrict.org/posts/2021/04/early-april-lightning-talks.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;It's an April two-fer! Join us for an evening of lightning talks. If you're
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict (The main meetups)</title><link>https://pydistrict.org/</link><description>Our monthly meetup</description><atom:link href="https://pydistrict.org/categories/cat_main-meetup.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 PyDistrict </copyright><lastBuildDate>Sat, 17 Apr 2021 18:04:50 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>April Meetup</title><link>https://pydistrict.org/posts/2021/04/april-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+be presenting: &lt;strong&gt;Taylor Bird&lt;/strong&gt;.&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
+
+&lt;h4&gt;Taylor Bird -  Blueprints for a Serpent&lt;/h4&gt;
+&lt;p&gt;A survey of Python variants. Let's discuss that Python is a specification for a
+language of which cPython is just the most popular reference implementation.
+We'll talk at a high level about how this is possible and then we'll cover some
+examples of alternate implementations of Python, what they offer and why you
+might want to use them.&lt;/p&gt;
+&lt;h5&gt;About Taylor&lt;/h5&gt;
+&lt;p&gt;Taylor Bird software developer with Excella. He has roughly a decade long
+background in Java programming and software design for enterprise systems. His
+recent focus has been on data science, and he is mostly programming in Python
+these days for that.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/04/april-meetup-2021.html</guid><pubDate>Sat, 17 Apr 2021 18:00:00 GMT</pubDate></item><item><title>Early April Lightning Talks</title><link>https://pydistrict.org/posts/2021/04/early-april-lightning-talks.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;It's an April two-fer! Join us for an evening of lightning talks. If you're
 interested in presenting, please reach out to the organizers on
 &lt;a href="https://www.meetup.com/pydistrict"&gt;Meetup&lt;/a&gt; or the &lt;a href="http://www.dctechslack.com/"&gt;DC Tech
 Slack's&lt;/a&gt; &lt;code&gt;#pydistrict&lt;/code&gt; channel.&lt;/p&gt;

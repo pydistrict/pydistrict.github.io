@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://pydistrict.org/archive.html</loc>
-  <lastmod>2021-03-24T23:44:00Z</lastmod>
+  <lastmod>2021-04-17T18:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://pydistrict.org/categories/</loc>
@@ -27,7 +27,7 @@
  </url>
  <url>
   <loc>https://pydistrict.org/categories/cat_main-meetup.html</loc>
-  <lastmod>2021-03-24T23:44:00Z</lastmod>
+  <lastmod>2021-04-17T18:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://pydistrict.org/categories/cat_project-night.html</loc>
@@ -35,7 +35,7 @@
  </url>
  <url>
   <loc>https://pydistrict.org/categories/meetup.html</loc>
-  <lastmod>2021-03-24T23:44:00Z</lastmod>
+  <lastmod>2021-04-17T18:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://pydistrict.org/conduct.html</loc>
@@ -43,7 +43,7 @@
  </url>
  <url>
   <loc>https://pydistrict.org/posts/</loc>
-  <lastmod>2021-01-25T23:23:00Z</lastmod>
+  <lastmod>2021-04-17T18:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://pydistrict.org/posts/2020/03/march-meetup.html</loc>
@@ -82,7 +82,15 @@
   <lastmod>2021-03-24T23:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://pydistrict.org/posts/2021/04/april-meetup-2021.html</loc>
+  <lastmod>2021-04-17T18:04:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://pydistrict.org/posts/2021/04/early-april-lightning-talks.html</loc>
-  <lastmod>2021-03-24T23:44:00Z</lastmod>
+  <lastmod>2021-04-17T18:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://pydistrict.org/posts/index-1.html</loc>
+  <lastmod>2021-04-17T18:04:00Z</lastmod>
  </url>
 </urlset>
