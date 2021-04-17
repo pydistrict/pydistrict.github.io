@@ -1,7 +1,7 @@
 <!--
 .. title: April Meetup
 .. slug: april-meetup-2021
-.. date: 2021-04-17 18:00:00 UTC-04:00
+.. date: 2021-04-17 14:00:00 UTC-04:00
 .. tags: meetup
 .. category: main-meetup
 .. link: https://www.meetup.com/pydistrict/events/277608207/
