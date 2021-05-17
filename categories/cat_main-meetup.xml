@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict (The main meetups)</title><link>https://pydistrict.org/</link><description>Our monthly meetup</description><atom:link href="https://pydistrict.org/categories/cat_main-meetup.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 PyDistrict </copyright><lastBuildDate>Sat, 17 Apr 2021 18:04:50 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>April Meetup</title><link>https://pydistrict.org/posts/2021/04/april-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict (The main meetups)</title><link>https://pydistrict.org/</link><description>Our monthly meetup</description><atom:link href="https://pydistrict.org/categories/cat_main-meetup.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 PyDistrict </copyright><lastBuildDate>Mon, 17 May 2021 01:29:33 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>May Meetup - Probabilistic Programming using PyStan</title><link>https://pydistrict.org/posts/2021/05/may-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+be presenting: &lt;strong&gt;Saran Ahluwalia&lt;/strong&gt;.&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
+
+&lt;h4&gt;Saran Ahluwalia - Probabilistic Programming using PyStan: Quantifying the business impact of adverse events on networks using device telemetry&lt;/h4&gt;
+&lt;p&gt;Causal Inference has been greatly popularized in the past several years in both
+contemporary machine learning and in statistics. Applications include
+advertising campaigns, economic analysis and disaster recovery.&lt;/p&gt;
+&lt;p&gt;But what exactly is "causal inference"? From a statistician's perspective, it
+is the study of the consequences of the effects of individuals' actions. This
+is really important as one causal phenomena in your data can be more meaningful
+than dozens of correlation patterns in your data.&lt;/p&gt;
+&lt;p&gt;In this talk we will briefly discuss an application of causal inference to
+cybersecurity. Objectives in this talk include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;An introduction to Bayesian structural time series models&lt;/li&gt;
+&lt;li&gt;An introduction to probabilistic programming using Stan&lt;/li&gt;
+&lt;li&gt;How to construct hierarchical models that can capture more complex dynamics
+   of systems&lt;/li&gt;
+&lt;li&gt;An introduction to network traffic analysis and its utility in impacting
+   both cybersecurity and the science of causal inference&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;About Saran&lt;/h5&gt;
+&lt;p&gt;Saran Ahluwalia is currently a Data Scientist working within the Advanced
+Security Initiatives group in Cisco. &lt;a href="https://ahlusar1989.github.io/"&gt;You can learn more about Saran
+here&lt;/a&gt;. You can also follow him and his
+ramblings on 1990s and 2000-era NBA basketball, COVID-19 policy and statistics
+(among other topics) on Twitter:
+&lt;a href="https://twitter.com/SaranAhluwalia"&gt;@SaranAhluwalia&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/05/may-meetup-2021.html</guid><pubDate>Mon, 17 May 2021 01:25:00 GMT</pubDate></item><item><title>April Meetup</title><link>https://pydistrict.org/posts/2021/04/april-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
 be presenting: &lt;strong&gt;Taylor Bird&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- TEASER_END --&gt;
 
@@ -186,42 +214,4 @@ micro-services in Flask and other Python frameworks. He likes to utilize his
 skill set to improve the DevOps sector in multiple facets, focusing around
 Kubernetes in the most recent years. He has worked for several companies at
 large scale, leading innovating projects to bring software and hardware
-together.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/05/may-meetup.html</guid><pubDate>Tue, 19 May 2020 02:12:10 GMT</pubDate></item><item><title>March Meetup</title><link>https://pydistrict.org/posts/2020/03/march-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our 1st virtual PyDistrict (formerly Django District) meetup of the
-year. We have two great speakers who will be presenting: &lt;strong&gt;Emma Price&lt;/strong&gt; and
-&lt;strong&gt;Zuri Hunter&lt;/strong&gt;.&lt;/p&gt;
-&lt;h4&gt;Emma Price - Decision Trees&lt;/h4&gt;
-&lt;p&gt;Decision Trees are used in a wide variety of applications and are great
-starting algorithms for visualizing machine learning at work. But what are they
-and how can we build them? I hope to provide a more in depth understanding of
-performing classification with Decision Trees. This presentation will cover
-general terms, examples, and common pitfalls of using Decision Trees for Data
-Analysis.&lt;/p&gt;
-&lt;p&gt;Currently, Emma is a Technologist for Black Cape working on full stack
-development for DoD apps. Previously, she was a Software Engineer for Leidos
-for 2 years, where she built and researched machine learning algorithms. Emma
-received an undergraduate degree in Biomedical Engineering and is passionate
-about technology and learning how to harness the power of processing to
-increase efficiency in the workforce.&lt;/p&gt;
-&lt;h4&gt;Zuri Hunter - 4C or Not 4C? That is the question...&lt;/h4&gt;
-&lt;p&gt;This was a question I posed to myself when I was trying to come up with a
-presentation with Python. I wanted to know if it was possible to train a
-computer on how to determine whether an image had a 4C hair type. This
-presentation will cover the trial and tribulations that I came across when
-trying to answer that question.&lt;/p&gt;
-&lt;p&gt;Zuri Hunter is a software engineer at Black Cape, based out in Washington,
-DC. She attended the illustrious Howard University where she obtained her
-bachelor’s in Computer Information Systems. While completing her undergraduate
-degree, Zuri taught herself Ruby on Rails and applied this knowledge at several
-local hackathons. She worked on several projects such as the US Presidential
-Innovations Fellow, Hack the Pay Gap and AngelHack Incubator, SlimSpace. After
-her 5th hackathon she was presented with her first introduction in the tech
-industry with opportunity at HumanGeo with web applications in a microservice
-architecture.&lt;/p&gt;
-&lt;p&gt;Outside of building amazing applications, Zuri is heavily involved in
-increasing diversity and inclusion within the DC tech community. She volunteers
-regularly with Women Who Code as a Ruby on Rails Lead, Black Girls Code as a
-Technical Lead, Bison Hacks as a Hackathon Organizer and DCFemTech as
-Leadership Lead. As of 2018, she was nominated as DCA Live Power Women in Tech.
-When she isn’t volunteering or coding she loves to spend her free time, playing
-video games on her PlayStation, watching American Football, doing arts &amp;amp; crafts
-and playing billiards at a local club.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/03/march-meetup.html</guid><pubDate>Tue, 24 Mar 2020 01:45:49 GMT</pubDate></item></channel></rss>
+together.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/05/may-meetup.html</guid><pubDate>Tue, 19 May 2020 02:12:10 GMT</pubDate></item></channel></rss>
