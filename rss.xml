@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict</title><link>https://pydistrict.org/</link><description>Washington, DC's premiere Python meetup.</description><atom:link href="https://pydistrict.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 PyDistrict </copyright><lastBuildDate>Mon, 17 May 2021 01:29:33 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>May Meetup - Probabilistic Programming using PyStan</title><link>https://pydistrict.org/posts/2021/05/may-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict</title><link>https://pydistrict.org/</link><description>Washington, DC's premiere Python meetup.</description><atom:link href="https://pydistrict.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 PyDistrict </copyright><lastBuildDate>Thu, 03 Jun 2021 22:14:00 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>June Meetup - Authorization using Python + SQLAlchemy</title><link>https://pydistrict.org/posts/2021/06/june-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+be presenting: &lt;strong&gt;Sam Scott&lt;/strong&gt;.&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
+
+&lt;h4&gt;Sam Scott - Adding Structure to a Sea of Chaos: A principled approach to authorization using Python + SQLAlchemy&lt;/h4&gt;
+&lt;p&gt;Authorization is an unstructured problem. Writing code to decide who can do
+what in your app can cover a broad set of cases. The most structure that
+typically gets applied to this problem area is a set of if statements and
+roles, but in reality, there are a lot more patterns and structure that we can
+apply. &lt;a href="https://www.osohq.com"&gt;Oso&lt;/a&gt; is an open source batteries-included
+library for building authorization in your application. It's a bit like
+SQLAlchemy in that it provides a structured approach to authorization, much
+like SQLAlchemy does for data modeling and access. In this talk, we'll provide
+a mental model for authorization and show how to apply it using oso, Python and
+SQLAlchemy.&lt;/p&gt;
+&lt;h5&gt;About Sam&lt;/h5&gt;
+&lt;p&gt;Sam Scott is the cofounder and CTO of &lt;a href="https://www.osohq.com"&gt;Oso&lt;/a&gt;. He’s
+received a PhD in Cryptography, is an engineer by training, and can discuss
+anything from authorization and security patterns in SQLAlchemy, to how oso
+works under the hood and interfaces with Python via FFI, to trends in security
+policy-as-code and his contributions to TLS 1.3.&lt;/p&gt;
+&lt;p&gt;You can find him on Twitter &lt;a href="https://twitter.com/samososos"&gt;@samososos&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/06/june-meetup-2021.html</guid><pubDate>Thu, 03 Jun 2021 21:49:58 GMT</pubDate></item><item><title>May Meetup - Probabilistic Programming using PyStan</title><link>https://pydistrict.org/posts/2021/05/may-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
 be presenting: &lt;strong&gt;Saran Ahluwalia&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- TEASER_END --&gt;
 
@@ -172,19 +193,4 @@ with the PSF since 2012 and prior to that she assisted with PyCon as a
 contractor. Ewa's responsibilities include managing the staff, giving direction
 and leadership to the Foundation, working with the board of directors on
 long-range strategic planning, and overseeing financial and program operations
-to name a few.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/07/july-meetup.html</guid><pubDate>Sun, 19 Jul 2020 02:17:05 GMT</pubDate></item><item><title>June Meetup</title><link>https://pydistrict.org/posts/2020/06/june-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our June virtual PyDistrict. We have two great speakers who will be
-presenting: &lt;strong&gt;Mike Brown&lt;/strong&gt; and &lt;strong&gt;Rami Chowdury&lt;/strong&gt;.&lt;/p&gt;
-&lt;h4&gt;Mike Brown - Before you commit, every commit: how to automate code quality&lt;/h4&gt;
-&lt;p&gt;The python community has many tools for linting and enforcing pep8 coding
-standards, such as flake8, pylint, and black. Wouldn’t it be nice if these
-tools automatically ran — and automatically fixed — your code before it was
-pushed?&lt;/p&gt;
-&lt;h4&gt;Rami Chowdury - Type Checking in Python&lt;/h4&gt;
-&lt;p&gt;You've definitely heard of mypy, and possibly one or more of pytype, pyre, and
-pyright.&lt;/p&gt;
-&lt;p&gt;Holy cow -- that's a lot of options! What should you use? Rami talks about
-typechecking your Python for fun... and maybe profit?&lt;/p&gt;
-&lt;p&gt;Rami has been writing Python for over 10 years and checking types for less than
-half of them. He currently helps companies scale their use of Python at
-&lt;a href="https://www.twitter.com/CoiledHQ"&gt;@CoiledHQ&lt;/a&gt;. Twitter:
-&lt;a href="https://www.twitter.com/necaris"&gt;@necaris&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/06/june-meetup.html</guid><pubDate>Fri, 19 Jun 2020 02:12:29 GMT</pubDate></item></channel></rss>
+to name a few.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/07/july-meetup.html</guid><pubDate>Sun, 19 Jul 2020 02:17:05 GMT</pubDate></item></channel></rss>
