@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict</title><link>https://pydistrict.org/</link><description>Washington, DC's premiere Python meetup.</description><atom:link href="https://pydistrict.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 PyDistrict </copyright><lastBuildDate>Thu, 03 Jun 2021 22:14:00 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>June Meetup - Authorization using Python + SQLAlchemy</title><link>https://pydistrict.org/posts/2021/06/june-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict</title><link>https://pydistrict.org/</link><description>Washington, DC's premiere Python meetup.</description><atom:link href="https://pydistrict.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 PyDistrict </copyright><lastBuildDate>Sun, 26 Sep 2021 12:54:29 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>September Meetup - Macro Keyboards with CircuitPython</title><link>https://pydistrict.org/posts/2021/09/september-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+be presenting: &lt;strong&gt;Kevin Harris&lt;/strong&gt;.&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
+
+&lt;h4&gt;Kevin Harris - Macro Keyboards with CircuitPython&lt;/h4&gt;
+&lt;p&gt;The process from designing to creating mechanical macro keyboards, including
+CAD, wiring, soldering, and coding.&lt;/p&gt;
+&lt;h5&gt;About Sam&lt;/h5&gt;
+&lt;p&gt;Kevin Harris is a senior at Wilson High School in DC. He's on the robotics team
+and plans to study engineering in college.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/09/september-meetup-2021.html</guid><pubDate>Mon, 20 Sep 2021 21:49:58 GMT</pubDate></item><item><title>June Meetup - Authorization using Python + SQLAlchemy</title><link>https://pydistrict.org/posts/2021/06/june-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
 be presenting: &lt;strong&gt;Sam Scott&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- TEASER_END --&gt;
 
@@ -165,32 +174,4 @@ Everyone is welcome, regardless of experience.&lt;/p&gt;
 &lt;p&gt;Have a project you are working on and just need to find the time? Spend a few
 hours with other DC Python members bringing your idea into existence.&lt;/p&gt;
 &lt;p&gt;Even if you don't have a project join in the conversation, learn something new
-and share your experience.&lt;/p&gt;&lt;/div&gt;</description><guid>https://pydistrict.org/posts/2020/07/project-night.html</guid><pubDate>Sat, 25 Jul 2020 03:01:47 GMT</pubDate></item><item><title>July Meetup</title><link>https://pydistrict.org/posts/2020/07/july-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We have two great speakers who will
-be presenting: &lt;strong&gt;Robert Townley&lt;/strong&gt; and &lt;strong&gt;Ewa Jodlowska&lt;/strong&gt;.&lt;/p&gt;
-&lt;h4&gt;Robert Townley - K(snake)s: An intro to kubernetes using python&lt;/h4&gt;
-&lt;p&gt;Kubernetes (aka “k8s”) has changed the way we run, deploy, and think about
-applications. The learning curve for k8s is a steep one, but it’s surmountable
-and worthwhile. And the platform has real particular advantages for python
-developers, who need to deal with issues (both real and imagined) around
-python’s ease of deployment and scalability. In this presentation, we’ll take a
-Django application through full deployment to a k8s cluster. We’ll spin up the
-cluster, dockerize the app, publish the app to a container registry, set up a
-CI/CD pipeline, and deploy the app. Even better: we’ll go over what all of
-those odd words mean. So whether you’re a curious beginner looking to learn, or
-a devops veteran who feels a moral responsibility to save DC’s python community
-from my copious k8s mistakes, this talk is sure to have something for everyone!&lt;/p&gt;
-&lt;p&gt;Robert is a developer for Upside Travel, where he dabbles in everything from
-mobile development to SRE. He’s originally from NYC and comes to DC by way of
-Montreal. In his free time, he enjoys farming-based video games, playing
-classical guitar, puttering around the city while listening to audiobooks, and
-buying domains for half-finished projects and ideas.&lt;/p&gt;
-&lt;h4&gt;Ewa Jodlowska, PSF Executive Director - How the Python Software Foundation Fared Through the Impact of the Pandemic&lt;/h4&gt;
-&lt;p&gt;Like a lot of other organizations, the PSF has had a tough year. With the help
-of some special guests, we'll find out how things stand, ways to get involved
-in the Python community now, and what to expect in the coming months.&lt;/p&gt;
-&lt;p&gt;Ewa is the Executive Director of the Python Software Foundation. She has been
-with the PSF since 2012 and prior to that she assisted with PyCon as a
-contractor. Ewa's responsibilities include managing the staff, giving direction
-and leadership to the Foundation, working with the board of directors on
-long-range strategic planning, and overseeing financial and program operations
-to name a few.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/07/july-meetup.html</guid><pubDate>Sun, 19 Jul 2020 02:17:05 GMT</pubDate></item></channel></rss>
+and share your experience.&lt;/p&gt;&lt;/div&gt;</description><guid>https://pydistrict.org/posts/2020/07/project-night.html</guid><pubDate>Sat, 25 Jul 2020 03:01:47 GMT</pubDate></item></channel></rss>
