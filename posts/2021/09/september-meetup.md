@@ -20,7 +20,7 @@ be presenting: **Kevin Harris**.
 The process from designing to creating mechanical macro keyboards, including
 CAD, wiring, soldering, and coding.
 
-#### About Sam
+#### About Kevin
 
 Kevin Harris is a senior at Wilson High School in DC. He's on the robotics team
 and plans to study engineering in college.
