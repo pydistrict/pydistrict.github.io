@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://pydistrict.org/categories/cat_main-meetup.xml</loc>
-  <lastmod>2021-09-26T12:54:00Z</lastmod>
+  <lastmod>2021-11-11T15:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://pydistrict.org/categories/cat_project-night.xml</loc>
@@ -15,14 +15,14 @@
  </sitemap>
  <sitemap>
   <loc>https://pydistrict.org/categories/meetup.xml</loc>
-  <lastmod>2021-09-26T12:54:00Z</lastmod>
+  <lastmod>2021-11-11T15:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://pydistrict.org/rss.xml</loc>
-  <lastmod>2021-09-26T12:54:00Z</lastmod>
+  <lastmod>2021-11-11T15:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://pydistrict.org/sitemap.xml</loc>
-  <lastmod>2021-09-26T12:54:00Z</lastmod>
+  <lastmod>2021-11-11T15:07:00Z</lastmod>
  </sitemap>
 </sitemapindex>

@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict</title><link>https://pydistrict.org/</link><description>Washington, DC's premiere Python meetup.</description><atom:link href="https://pydistrict.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 PyDistrict </copyright><lastBuildDate>Sun, 26 Sep 2021 12:54:29 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>September Meetup - Macro Keyboards with CircuitPython</title><link>https://pydistrict.org/posts/2021/09/september-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict</title><link>https://pydistrict.org/</link><description>Washington, DC's premiere Python meetup.</description><atom:link href="https://pydistrict.org/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 PyDistrict </copyright><lastBuildDate>Thu, 11 Nov 2021 15:07:03 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>November Meetup</title><link>https://pydistrict.org/posts/2021/11/november-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+be presenting: &lt;strong&gt;Brian Sjoberg&lt;/strong&gt;.&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
+
+&lt;h4&gt;Brian Sjoberg - Let's Make Sure Our Product Behaves Like What the Customers Need&lt;/h4&gt;
+&lt;p&gt;Have you ever heard the words, “That is not what I asked for?”
+Have you struggled with understanding the real needs of the user?
+Would you like to deliver a high-quality product that meets the user needs?
+If you answered yes to one or more of these questions then come join us for this presentation on what Behavior Driven Development is, its benefits, and how to do it in Python.&lt;/p&gt;
+&lt;h4&gt;About Brian&lt;/h4&gt;
+&lt;p&gt;Hi everyone! My name is Brian Sjoberg, I hail from sunny Florida where I earned my Computer Engineering degree from the University of South Florida. Go Bulls!! I am a former eXtreme Programming (XP) Java developer, turned Project Manager, turned Program Manager, turned Agile/Lean Coach. I have been living on the front lines of implementing Scrum, Kanban, and engineering practices for the past 14 years with multiple teams. I have coached both in the commercial and government space. I am fueled with a passion to help individuals, teams, and organizations frequently deliver high quality products at a sustainable pace that customers LOVE!! I love sharing what I have learned during my professional journey and have presented at the national and local level on many topics related to Agility.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/11/november-meetup-2021.html</guid><pubDate>Thu, 11 Nov 2021 14:17:39 GMT</pubDate></item><item><title>September Meetup - Macro Keyboards with CircuitPython</title><link>https://pydistrict.org/posts/2021/09/september-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
 be presenting: &lt;strong&gt;Kevin Harris&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- TEASER_END --&gt;
 
 &lt;h4&gt;Kevin Harris - Macro Keyboards with CircuitPython&lt;/h4&gt;
 &lt;p&gt;The process from designing to creating mechanical macro keyboards, including
 CAD, wiring, soldering, and coding.&lt;/p&gt;
-&lt;h5&gt;About Sam&lt;/h5&gt;
+&lt;h5&gt;About Kevin&lt;/h5&gt;
 &lt;p&gt;Kevin Harris is a senior at Wilson High School in DC. He's on the robotics team
 and plans to study engineering in college.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/09/september-meetup-2021.html</guid><pubDate>Mon, 20 Sep 2021 21:49:58 GMT</pubDate></item><item><title>June Meetup - Authorization using Python + SQLAlchemy</title><link>https://pydistrict.org/posts/2021/06/june-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
 be presenting: &lt;strong&gt;Sam Scott&lt;/strong&gt;.&lt;/p&gt;
@@ -167,11 +177,4 @@ experience.&lt;/p&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=vGphzPLemZE"&gt;5 ways to deploy your Python web app in 2017&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=GVVtR_hrdKI"&gt;Demystifying Docker&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=YiZkHUbE6N0"&gt;Docker 101: Introduction to Docker&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/08/august-meetup.html</guid><pubDate>Wed, 19 Aug 2020 02:17:21 GMT</pubDate></item><item><title>July Project Night</title><link>https://pydistrict.org/posts/2020/07/project-night.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us on the third Tuesday of the month to work on Python related projects!
-Everyone is welcome, regardless of experience.&lt;/p&gt;
-&lt;!-- TEASER_END --&gt;
-
-&lt;p&gt;Have a project you are working on and just need to find the time? Spend a few
-hours with other DC Python members bringing your idea into existence.&lt;/p&gt;
-&lt;p&gt;Even if you don't have a project join in the conversation, learn something new
-and share your experience.&lt;/p&gt;&lt;/div&gt;</description><guid>https://pydistrict.org/posts/2020/07/project-night.html</guid><pubDate>Sat, 25 Jul 2020 03:01:47 GMT</pubDate></item></channel></rss>
+&lt;/ul&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/08/august-meetup.html</guid><pubDate>Wed, 19 Aug 2020 02:17:21 GMT</pubDate></item></channel></rss>
