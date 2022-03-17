@@ -1,4 +1,4 @@
-Nikola @ git+git://github.com/getnikola/nikola.git@3b7c48bf8c7a930ebc22045d5b6eac3523cd4716
+Nikola==8.2.0
 aiohttp==3.7.3
 watchdog==1.0.2
 ghp-import2==1.0.1
