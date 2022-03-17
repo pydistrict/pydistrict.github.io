@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict (Posts about meetup)</title><link>https://pydistrict.org/</link><description></description><atom:link href="https://pydistrict.org/categories/meetup.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 PyDistrict </copyright><lastBuildDate>Thu, 11 Nov 2021 15:48:38 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>November Meetup - Behavior Driven Development</title><link>https://pydistrict.org/posts/2021/11/november-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict (Posts about meetup)</title><link>https://pydistrict.org/</link><description></description><atom:link href="https://pydistrict.org/categories/meetup.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2022 PyDistrict </copyright><lastBuildDate>Thu, 17 Mar 2022 23:43:30 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>March Meetup</title><link>https://pydistrict.org/posts/2022/03/march-meetup-2022.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;p&gt;Let's kick off 2022!! Join us for our March meetup. We're going to keep it
+informal and have a few great discussions.&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
+
+&lt;h4&gt;PyCon 2022 Preview&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://pycon.us/"&gt;PyCon 2022&lt;/a&gt; is coming up on April 29th in Salt Lake City.
+Come find out what to expect.&lt;/p&gt;
+&lt;h4&gt;Functional Programming in Python&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Vic Kumar&lt;/strong&gt; will present an overview of &lt;a href="https://us.pycon.org/2022/schedule/presentation/80/"&gt;the talk he'll be giving at PyCon 2022
+on Saturday, April 30th&lt;/a&gt;.&lt;/p&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2022/03/march-meetup-2022.html</guid><pubDate>Thu, 17 Mar 2022 22:46:24 GMT</pubDate></item><item><title>November Meetup - Behavior Driven Development</title><link>https://pydistrict.org/posts/2021/11/november-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
 be presenting: &lt;strong&gt;Brian Sjoberg&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- TEASER_END --&gt;
 
@@ -9,7 +18,7 @@ Have you struggled with understanding the real needs of the user?
 Would you like to deliver a high-quality product that meets the user needs?
 If you answered yes to one or more of these questions then come join us for this presentation on what Behavior Driven Development is, its benefits, and how to do it in Python.&lt;/p&gt;
 &lt;h4&gt;About Brian&lt;/h4&gt;
-&lt;p&gt;Hi everyone! My name is Brian Sjoberg, I hail from sunny Florida where I earned my Computer Engineering degree from the University of South Florida. Go Bulls!! I am a former eXtreme Programming (XP) Java developer, turned Project Manager, turned Program Manager, turned Agile/Lean Coach. I have been living on the front lines of implementing Scrum, Kanban, and engineering practices for the past 14 years with multiple teams. I have coached both in the commercial and government space. I am fueled with a passion to help individuals, teams, and organizations frequently deliver high quality products at a sustainable pace that customers LOVE!! I love sharing what I have learned during my professional journey and have presented at the national and local level on many topics related to Agility.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/11/november-meetup-2021.html</guid><pubDate>Thu, 11 Nov 2021 14:17:39 GMT</pubDate></item><item><title>September Meetup - Macro Keyboards with CircuitPython</title><link>https://pydistrict.org/posts/2021/09/september-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+&lt;p&gt;Hi everyone! My name is Brian Sjoberg, I hail from sunny Florida where I earned my Computer Engineering degree from the University of South Florida. Go Bulls!! I am a former eXtreme Programming (XP) Java developer, turned Project Manager, turned Program Manager, turned Agile/Lean Coach. I have been living on the front lines of implementing Scrum, Kanban, and engineering practices for the past 14 years with multiple teams. I have coached both in the commercial and government space. I am fueled with a passion to help individuals, teams, and organizations frequently deliver high quality products at a sustainable pace that customers LOVE!! I love sharing what I have learned during my professional journey and have presented at the national and local level on many topics related to Agility.&lt;/p&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/11/november-meetup-2021.html</guid><pubDate>Thu, 11 Nov 2021 14:17:39 GMT</pubDate></item><item><title>September Meetup - Macro Keyboards with CircuitPython</title><link>https://pydistrict.org/posts/2021/09/september-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
 be presenting: &lt;strong&gt;Kevin Harris&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- TEASER_END --&gt;
 
@@ -18,7 +27,7 @@ be presenting: &lt;strong&gt;Kevin Harris&lt;/strong&gt;.&lt;/p&gt;
 CAD, wiring, soldering, and coding.&lt;/p&gt;
 &lt;h5&gt;About Kevin&lt;/h5&gt;
 &lt;p&gt;Kevin Harris is a senior at Wilson High School in DC. He's on the robotics team
-and plans to study engineering in college.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/09/september-meetup-2021.html</guid><pubDate>Mon, 20 Sep 2021 21:49:58 GMT</pubDate></item><item><title>June Meetup - Authorization using Python + SQLAlchemy</title><link>https://pydistrict.org/posts/2021/06/june-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+and plans to study engineering in college.&lt;/p&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/09/september-meetup-2021.html</guid><pubDate>Mon, 20 Sep 2021 21:49:58 GMT</pubDate></item><item><title>June Meetup - Authorization using Python + SQLAlchemy</title><link>https://pydistrict.org/posts/2021/06/june-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
 be presenting: &lt;strong&gt;Sam Scott&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- TEASER_END --&gt;
 
@@ -39,7 +48,7 @@ received a PhD in Cryptography, is an engineer by training, and can discuss
 anything from authorization and security patterns in SQLAlchemy, to how oso
 works under the hood and interfaces with Python via FFI, to trends in security
 policy-as-code and his contributions to TLS 1.3.&lt;/p&gt;
-&lt;p&gt;You can find him on Twitter &lt;a href="https://twitter.com/samososos"&gt;@samososos&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/06/june-meetup-2021.html</guid><pubDate>Thu, 03 Jun 2021 21:49:58 GMT</pubDate></item><item><title>May Meetup - Probabilistic Programming using PyStan</title><link>https://pydistrict.org/posts/2021/05/may-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+&lt;p&gt;You can find him on Twitter &lt;a href="https://twitter.com/samososos"&gt;@samososos&lt;/a&gt;.&lt;/p&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/06/june-meetup-2021.html</guid><pubDate>Thu, 03 Jun 2021 21:49:58 GMT</pubDate></item><item><title>May Meetup - Probabilistic Programming using PyStan</title><link>https://pydistrict.org/posts/2021/05/may-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
 be presenting: &lt;strong&gt;Saran Ahluwalia&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- TEASER_END --&gt;
 
@@ -67,7 +76,7 @@ Security Initiatives group in Cisco. &lt;a href="https://ahlusar1989.github.io/"
 here&lt;/a&gt;. You can also follow him and his
 ramblings on 1990s and 2000-era NBA basketball, COVID-19 policy and statistics
 (among other topics) on Twitter:
-&lt;a href="https://twitter.com/SaranAhluwalia"&gt;@SaranAhluwalia&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/05/may-meetup-2021.html</guid><pubDate>Mon, 17 May 2021 01:25:00 GMT</pubDate></item><item><title>April Meetup</title><link>https://pydistrict.org/posts/2021/04/april-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+&lt;a href="https://twitter.com/SaranAhluwalia"&gt;@SaranAhluwalia&lt;/a&gt;.&lt;/p&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/05/may-meetup-2021.html</guid><pubDate>Mon, 17 May 2021 01:25:00 GMT</pubDate></item><item><title>April Meetup</title><link>https://pydistrict.org/posts/2021/04/april-meetup-2021.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
 be presenting: &lt;strong&gt;Taylor Bird&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- TEASER_END --&gt;
 
@@ -81,7 +90,7 @@ might want to use them.&lt;/p&gt;
 &lt;p&gt;Taylor Bird software developer with Excella. He has roughly a decade long
 background in Java programming and software design for enterprise systems. His
 recent focus has been on data science, and he is mostly programming in Python
-these days for that.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/04/april-meetup-2021.html</guid><pubDate>Sat, 17 Apr 2021 18:00:00 GMT</pubDate></item><item><title>Early April Lightning Talks</title><link>https://pydistrict.org/posts/2021/04/early-april-lightning-talks.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;It's an April two-fer! Join us for an evening of lightning talks. If you're
+these days for that.&lt;/p&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/04/april-meetup-2021.html</guid><pubDate>Sat, 17 Apr 2021 18:00:00 GMT</pubDate></item><item><title>Early April Lightning Talks</title><link>https://pydistrict.org/posts/2021/04/early-april-lightning-talks.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;p&gt;It's an April two-fer! Join us for an evening of lightning talks. If you're
 interested in presenting, please reach out to the organizers on
 &lt;a href="https://www.meetup.com/pydistrict"&gt;Meetup&lt;/a&gt; or the &lt;a href="http://www.dctechslack.com/"&gt;DC Tech
 Slack's&lt;/a&gt; &lt;code&gt;#pydistrict&lt;/code&gt; channel.&lt;/p&gt;
@@ -101,7 +110,7 @@ skills to bear with Django-Ninja!&lt;/p&gt;
 &lt;h4&gt;Vic Kumar - Functional Programming in Python&lt;/h4&gt;
 &lt;p&gt;Ever hear your overzealous friend talking about "functional programming" and
 have no idea what they're talking about? We're going to try and bridge the gap
-and do a few functional examples in Python.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/04/early-april-lightning-talks.html</guid><pubDate>Wed, 24 Mar 2021 23:39:17 GMT</pubDate></item><item><title>February Meetup</title><link>https://pydistrict.org/posts/2021/02/february-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+and do a few functional examples in Python.&lt;/p&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/04/early-april-lightning-talks.html</guid><pubDate>Wed, 24 Mar 2021 23:39:17 GMT</pubDate></item><item><title>February Meetup</title><link>https://pydistrict.org/posts/2021/02/february-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
 be presenting: &lt;strong&gt;Will Angel&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- TEASER_END --&gt;
 
@@ -119,7 +128,7 @@ Visualization DC meetup group, and helps lead communications and development
 for the Data Community DC non-profit. He has worked in consumer and healthcare
 startups, and has a background in bioethics and physics. Learn more at
 &lt;a href="http://www.williamangel.net"&gt;http://www.williamangel.net&lt;/a&gt; or on twitter at
-&lt;a href="https://twitter.com/DataDrivenAngel"&gt;@DataDrivenAngel&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/02/february-meetup.html</guid><pubDate>Mon, 25 Jan 2021 23:20:59 GMT</pubDate></item><item><title>October Meetup</title><link>https://pydistrict.org/posts/2020/10/october-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+&lt;a href="https://twitter.com/DataDrivenAngel"&gt;@DataDrivenAngel&lt;/a&gt;.&lt;/p&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2021/02/february-meetup.html</guid><pubDate>Mon, 25 Jan 2021 23:20:59 GMT</pubDate></item><item><title>October Meetup</title><link>https://pydistrict.org/posts/2020/10/october-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
 be presenting: &lt;strong&gt;Ying Wang&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- TEASER_END --&gt;
 
@@ -127,7 +136,7 @@ be presenting: &lt;strong&gt;Ying Wang&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;This talk introduces property-based testing as a concept, and describes some
 ways you can start integrating PBT into your test suite.&lt;/p&gt;
 &lt;p&gt;Ying is a software engineer in DC; he enjoys Chipotle burritos, sunlight, and
-making computer fans spin loudly.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/10/october-meetup.html</guid><pubDate>Mon, 19 Oct 2020 02:17:39 GMT</pubDate></item><item><title>September Meetup</title><link>https://pydistrict.org/posts/2020/09/september-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
+making computer fans spin loudly.&lt;/p&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/10/october-meetup.html</guid><pubDate>Mon, 19 Oct 2020 02:17:39 GMT</pubDate></item><item><title>September Meetup</title><link>https://pydistrict.org/posts/2020/09/september-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll have one great speaker who'll
 be presenting: &lt;strong&gt;Justin Shelton&lt;/strong&gt;.&lt;/p&gt;
 &lt;!-- TEASER_END --&gt;
 
@@ -147,34 +156,4 @@ Justin spent 11 years in the defense and intelligence communities helping
 analysts create better products from their data. Justin is a Virginia native,
 but family drew him to Wisconsin where he now resides with his wife and two
 kids. He has a Bachelor's Degree in Computer Science from Radford University in
-Virginia.&lt;/p&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/09/september-meetup.html</guid><pubDate>Thu, 17 Sep 2020 01:45:49 GMT</pubDate></item><item><title>August Meetup</title><link>https://pydistrict.org/posts/2020/08/august-meetup.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;div&gt;&lt;p&gt;Join us for our monthly virtual PyDistrict. We'll be welcoming back a former
-organizer and seasoned PyCon speaker: &lt;strong&gt;Andrew Baker&lt;/strong&gt;.&lt;/p&gt;
-&lt;h4&gt;Andrew Baker - How I built a $10k ARR side business with Django&lt;/h4&gt;
-&lt;p&gt;Ever thought about bootstrapping your own Software-as-a-Service business?&lt;/p&gt;
-&lt;p&gt;If you're like me, you registered dozens of domain names over the years for
-ideas that didn't &lt;em&gt;always&lt;/em&gt; see the light of day. After many failed attempts at
-creating a self-sustaining side project, I finally got one off the ground last
-year: Gator - smart scheduled delivery for your Slack messages.&lt;/p&gt;
-&lt;p&gt;After about a year and half of nights and weekends work, Gator now pulls in
-about $1,000 in revenue per month - which makes it $999 more successful than my
-previous best attempt. In this talk I'll share the story of how Gator got off
-the ground and some lessons I've learned along the way. I'll also cover some
-details of the Python stack I used to build Gator, the APIs I rely on to be
-successful, and some communities I found which could help you, too.&lt;/p&gt;
-&lt;p&gt;Andrew Baker is on a mission to empower developers to change the world with
-software.&lt;/p&gt;
-&lt;p&gt;As Director of Developer Education at Twilio, Andrew leads the teams
-responsible for Twilio’s documentation and training programs, including
-TwilioQuest.&lt;/p&gt;
-&lt;p&gt;Andrew started his career as a Python web developer in Washington, D.C.. He
-discovered his passion for teaching developers after running Docker workshops
-at meetups and conferences before joining Twilio in 2015.&lt;/p&gt;
-&lt;p&gt;Since then he has sought out new ways to challenge and empower developers
-through documentation, training, and other aspects of Twilio’s developer
-experience.&lt;/p&gt;
-&lt;p&gt;Some of his previous presentations:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=vGphzPLemZE"&gt;5 ways to deploy your Python web app in 2017&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=GVVtR_hrdKI"&gt;Demystifying Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=YiZkHUbE6N0"&gt;Docker 101: Introduction to Docker&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/08/august-meetup.html</guid><pubDate>Wed, 19 Aug 2020 02:17:21 GMT</pubDate></item></channel></rss>
+Virginia.&lt;/p&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2020/09/september-meetup.html</guid><pubDate>Thu, 17 Sep 2020 01:45:49 GMT</pubDate></item></channel></rss>
