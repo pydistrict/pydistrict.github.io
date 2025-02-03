@@ -1,4 +1,4 @@
-Nikola==8.2.0
+Nikola==8.3.1
 aiohttp==3.7.3
 watchdog==1.0.2
 ghp-import2==1.0.1
