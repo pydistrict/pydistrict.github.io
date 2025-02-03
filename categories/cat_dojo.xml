@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PyDistrict (Posts about dojo)</title><link>https://pydistrict.org/</link><description></description><atom:link href="https://pydistrict.org/categories/cat_dojo.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2025 PyDistrict </copyright><lastBuildDate>Mon, 03 Feb 2025 19:28:16 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>February Dojo</title><link>https://pydistrict.org/posts/2025/01/2025-feb-dojo.html</link><dc:creator>PyDistrict</dc:creator><description>&lt;p&gt;A new year, a new Dojo -- join us for an evening of Python, food, and silly
+mistakes. &lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
+
+&lt;h4&gt;DC Python Dojo&lt;/h4&gt;
+&lt;p&gt;Join us for an evening of Python coding, food, and silly mistakes.&lt;/p&gt;
+&lt;p&gt;The way it works is fairly simple:&lt;/p&gt;
+&lt;p&gt;6:30 - Everyone votes on a project to work on for the evening&lt;/p&gt;
+&lt;p&gt;​6:45 - We break up into small groups to work on the problem&lt;/p&gt;
+&lt;p&gt;​7:45 - Everyone comes back together for show &amp;amp; tell&lt;/p&gt;
+&lt;p&gt;​8:00 - We adjourn to a local establishment to discuss what went right over beverages&lt;/p&gt;</description><category>meetup</category><guid>https://pydistrict.org/posts/2025/01/2025-feb-dojo.html</guid><pubDate>Mon, 03 Feb 2025 18:46:24 GMT</pubDate></item></channel></rss>

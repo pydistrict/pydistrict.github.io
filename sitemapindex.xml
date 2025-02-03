@@ -6,23 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://pydistrict.org/categories/cat_dojo.xml</loc>
+  <lastmod>2025-02-03T19:28:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://pydistrict.org/categories/cat_main-meetup.xml</loc>
-  <lastmod>2022-03-17T23:43:00Z</lastmod>
+  <lastmod>2025-02-03T19:28:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://pydistrict.org/categories/cat_project-night.xml</loc>
-  <lastmod>2022-03-17T23:37:00Z</lastmod>
+  <lastmod>2025-02-03T19:28:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://pydistrict.org/categories/meetup.xml</loc>
-  <lastmod>2022-03-17T23:43:00Z</lastmod>
+  <lastmod>2025-02-03T19:28:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://pydistrict.org/rss.xml</loc>
-  <lastmod>2022-03-17T23:43:00Z</lastmod>
+  <lastmod>2025-02-03T19:28:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://pydistrict.org/sitemap.xml</loc>
-  <lastmod>2022-03-17T23:43:00Z</lastmod>
+  <lastmod>2025-02-03T19:28:00Z</lastmod>
  </sitemap>
 </sitemapindex>

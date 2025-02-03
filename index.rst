@@ -14,3 +14,9 @@
   :stop: 1
   :categories: project-night
   :template: event_highlight_directive.tmpl
+
+.. post-list::
+  :start: 0
+  :stop: 1
+  :categories: dojo
+  :template: event_highlight_directive.tmpl
