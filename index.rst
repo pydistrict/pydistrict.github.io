@@ -4,6 +4,5 @@
 
 
 .. post-list::
-  :stop: 2
-  :date: >= today
+  :stop: 1
   :template: event_highlight_directive.tmpl
