@@ -26,7 +26,7 @@ SITE_URL = "https://pydistrict.org/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://pydistrict.org/"
 BLOG_EMAIL = ""
-BLOG_DESCRIPTION = "Washington, DC's premiere Python meetup."  # (translatable)
+BLOG_DESCRIPTION = "Washington, DC's premier Python meetup."  # (translatable)
 
 # Nikola is multilingual!
 #
