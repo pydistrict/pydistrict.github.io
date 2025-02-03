@@ -140,9 +140,10 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("https://www.meetup.com/pydistrict/", "The Meetup"),
-        ("https://twitter.com/pydistrict", "Twitter"),
+        ("https://lu.ma/pydistrict/", "The Meetup"),
         ("https://github.com/pydistrict", "GitHub"),
+        ("https://bsky.app/profile/pydistrict.org", "BlueSky"),
+        ("https://fosstodon.org/@pydistrict", "Mastodon"),
         ("https://www.python.org/psf/donations/", "Donate to the PSF"),
     ),
 }
