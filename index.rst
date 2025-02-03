@@ -5,18 +5,5 @@
 
 .. post-list::
   :stop: 2
-  :reverse:
-  :categories: main-meetup
-  :template: event_highlight_directive.tmpl
-
-.. post-list::
-  :stop: 2
-  :reverse:
-  :categories: project-night
-  :template: event_highlight_directive.tmpl
-
-.. post-list::
-  :stop: 2
-  :reverse:
-  :categories: dojo
+  :date: >= today
   :template: event_highlight_directive.tmpl
